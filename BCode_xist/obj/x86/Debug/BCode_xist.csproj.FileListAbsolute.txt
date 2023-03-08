@@ -1,0 +1,14 @@
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.csproj.AssemblyReference.cache
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.csproj.SuggestedBindingRedirects.cache
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.Form1.resources
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.Properties.Resources.resources
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.csproj.GenerateResource.cache
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.csproj.CoreCompileInputs.cache
+E:\VS\BCode_zxing\BCode_xist\bin\Debug\BCode_xist.exe.config
+E:\VS\BCode_zxing\BCode_xist\bin\Debug\BCode_xist.exe
+E:\VS\BCode_zxing\BCode_xist\bin\Debug\BCode_xist.pdb
+E:\VS\BCode_zxing\BCode_xist\bin\Debug\BCode_xist.xml
+E:\VS\BCode_zxing\BCode_xist\bin\Debug\zxing.dll
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.csproj.CopyComplete
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.exe
+E:\VS\BCode_zxing\BCode_xist\obj\x86\Debug\BCode_xist.pdb
